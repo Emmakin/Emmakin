@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Emmakin
-- 👀 I’m interested in Frontend development and python
+- 👀 I’m interested in software development and python
 - 🌱 I’m currently learning javascript and react
-- 💞️ I’m looking to collaborate on designing a website
+- 💞️ I’m looking to collaborate on building a project
 - 📫 How to reach me 08124952269
 
 <!---
